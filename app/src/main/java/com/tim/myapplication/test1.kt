@@ -4,3 +4,9 @@ fun main()
 {
 
 }
+
+
+fun main1()
+{
+ println("frtftjdshzgzhzh")
+}

@@ -10,3 +10,9 @@ fun main1()
 {
  println("frtftjdshzgzhzh")
 }
+
+fun main5()
+{
+ println("frtftjdshzgzhzh 6 gdfdfdfdddr")
+}
+

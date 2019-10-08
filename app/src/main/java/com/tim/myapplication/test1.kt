@@ -4,3 +4,7 @@ fun test()
 {
     println("test this method")
 }
+fun main()
+{
+
+}
